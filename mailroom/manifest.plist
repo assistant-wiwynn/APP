@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>Wiwynn_Mailroom</string>
+				<string>Wiwynn-Mailroom</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>／／bundle id</string>
+				<string>Wiwynn-Mailroom</string>
 			</dict>
 		</dict>
 	</array>
