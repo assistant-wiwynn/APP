@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>Wiwynn_Toolbox</string>
+				<string>Wiwynn App</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>／／bundle id</string>
+				<string>Wiwynn-Toolbox</string>
 			</dict>
 		</dict>
 	</array>
