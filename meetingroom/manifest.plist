@@ -13,6 +13,12 @@
 					<key>url</key>
 					<string>https://github.com/assistant-wiwynn/APP/raw/main/meetingroom/wiwynn_app_4.0.2.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>test</key>
+					<string>https://github.com/assistant-wiwynn/APP/raw/main/meetingroom/wiwynn_app_asset_test.ipa</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
